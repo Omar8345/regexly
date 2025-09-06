@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://regexly.appwrite.network" target="_blank" rel="noopener noreferrer">
-    <img src="assets/banner.png" alt="Regexly Banner" width="600"/>
+    <img src="assets/banner.png" alt="Regexly Banner" width="900"/>
   </a>
 </p>
 
