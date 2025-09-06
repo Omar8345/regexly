@@ -14,8 +14,10 @@ interface RegexMatch {
 }
 
 export default function RegexlyApp() {
-  const [regexPattern, setRegexPattern] = useState("");
-  const [testText, setTestText] = useState("");
+  const [regexPattern, setRegexPattern] = useState("[A-Z]\\w+");
+  const [testText, setTestText] = useState(
+    `Welcome to Regexly! With this app, you can highlight numbers like 42 or 2023, detect email-like patterns such as user@example.com, or find special characters like #, $, and *. Regexly makes testing patterns fun and easy. Try typing \\d+ to catch numbers, [A-Za-z]+ for words, or .* to match anything. Don’t forget the emoji ❤️—it’s all fair game!`
+  );
   const [flags, setFlags] = useState({
     g: true,
     i: false,
