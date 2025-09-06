@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Regexly Banner" width="600"/>
+  <a href="https://regexly.appwrite.network" target="_blank" rel="noopener noreferrer">
+    <img src="assets/banner.png" alt="Regexly Banner" width="600"/>
+  </a>
 </p>
 
 <h1 align="center">Regexly</h1>
