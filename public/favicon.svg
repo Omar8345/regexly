@@ -1,16 +1,11 @@
-<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+<!-- filepath: /Users/osedki/regexly/app/icon.svg -->
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" rx="6" fill="url(#gradient)"/>
+  <text x="16" y="22" font-family="monospace" font-size="16" font-weight="700" text-anchor="middle" fill="white">.*</text>
   <defs>
-    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#27272a"/>
-      <stop offset="100%" stop-color="#18181b"/>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981"/>
+      <stop offset="100%" style="stop-color:#06b6d4"/>
     </linearGradient>
   </defs>
-
-  <rect x="0.5" y="0.5" width="79" height="79" rx="24" ry="24"
-        fill="url(#bg-gradient)" stroke="#3f3f46" stroke-width="1"/>
-
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
-        font-family="monospace" font-size="36" font-weight="bold" fill="#22c55e">
-    .*
-  </text>
 </svg>
