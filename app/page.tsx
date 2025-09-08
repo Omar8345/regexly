@@ -35,7 +35,7 @@ const DEFAULT_TEXT = `Welcome to Regexly! Test regex patterns with real-time hig
 Email: user@example.com
 Phone: +1 (555) 123-4567
 Date: 2024-01-15
-URL: https://regexly.dev
+URL: https://regexly.appwrite.network
 
 Numbers: 42, 123, 2024
 Words: Hello, World, Testing
