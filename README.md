@@ -8,7 +8,9 @@
 <p align="center">
   <b>Test, visualize, and master regular expressions in real time.</b><br>
   <i>Built for developers who need instant feedback and a beautiful UI.</i><br><br>
-  🚀 <a href="https://regexly.appwrite.network" target="_blank"><b>Live Demo</b></a>
+  <a href="https://regexly.appwrite.network" target="_blank">
+    <img src="https://img.shields.io/badge/🚀 Live Demo-regexly.appwrite.network-2ECC71?style=for-the-badge" alt="Regexly Demo"/>
+  </a>
 </p>
 
 ---
