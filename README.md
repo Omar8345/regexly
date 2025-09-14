@@ -7,7 +7,8 @@
 <h1 align="center">Regexly</h1>
 <p align="center">
   <b>Test, visualize, and master regular expressions in real time.</b><br>
-  <i>Built for developers who need instant feedback and a beautiful UI.</i>
+  <i>Built for developers who need instant feedback and a beautiful UI.</i><br><br>
+  🚀 <a href="https://regexly.appwrite.network" target="_blank"><b>Live Demo</b></a>
 </p>
 
 ---
